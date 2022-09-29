@@ -26,8 +26,8 @@ public class Puzzle {
 		FileReader fr = null;
 		try {
 			fr = new FileReader("C:\\WRDS\\words.txt");
+			// you can choose whatever directory you have your "words" file in
 		} catch (FileNotFoundException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}    
 	    BufferedReader br = new BufferedReader(fr);
