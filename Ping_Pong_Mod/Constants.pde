@@ -1,0 +1,9 @@
+final int SCREENX = 320;
+final int SCREENY = 240;
+final int PADDLEHEIGHT = 15;
+final int PADDLEWIDTH = 50;
+final int MARGIN = 10;
+int countP = 3;
+int countC = 3;
+float speed = 1;
+double help = 0.5;
