@@ -8,7 +8,7 @@ import java.util.NoSuchElementException;
 /**
  * This class contains the methods of Doubly Linked List.
  *
- * @author Mykhailo Bitiutskyy
+ * @author MykBit
  * @version 09/11/22
  *          //------------------------------------------------------------------------
  *          /**
