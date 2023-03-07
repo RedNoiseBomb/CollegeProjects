@@ -17,7 +17,7 @@ import junit.framework.Assert;
 /**
  * Test class for Doubly Linked List
  *
- * @author
+ * @author MykBit
  * @version 13/10/16 18:15
  */
 @RunWith(JUnit4.class)
